@@ -37,12 +37,20 @@
 - [DockerHub](https://hub.docker.com/r/natiq-foundation/forced-alignment)
 - [GitHub Repo](https://github.com/natiq-foundation/sdk-generator)
 
-### 2. Yakad - UI/UX framework
+### 2. Sarf
+- [GitHub Repo](https://github.com/natiq-foundation/sarf)
+
+### 3. Tajweed
+- [GitHub Repo](https://github.com/natiq-foundation/tajweed)
+
+## UI/UX - FrontEnd
+
+### 1. Yakad
 - NPM Packages:
   - [@yakad/symbols](https://www.npmjs.com/package/@yakad/symbols)
   - [@yakad/lib](https://www.npmjs.com/package/@yakad/lib)
   - [@yakad/sync](https://www.npmjs.com/package/@yakad/sync)
 - [Yakad GitHub Repo](https://github.com/natiq-foundation/yakad)
 
-### 3. A Shadcn Repo
+### 2. A Shadcn Repo
 - [GitHub Repo](https://github.com/natiq-foundation/shadcn-registry)
