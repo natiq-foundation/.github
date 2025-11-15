@@ -38,18 +38,11 @@
 - [GitHub Repo](https://github.com/natiq-foundation/sdk-generator)
 
 ### 2. Yakad - UI/UX framework
-- [Docs](https://yakad.natiq.net)
 - NPM Packages:
-  - [@yakad/ui](https://www.npmjs.com/package/@yakad/ui)
-  - [@yakad/x](https://www.npmjs.com/package/@yakad/x)
   - [@yakad/symbols](https://www.npmjs.com/package/@yakad/symbols)
   - [@yakad/lib](https://www.npmjs.com/package/@yakad/lib)
   - [@yakad/sync](https://www.npmjs.com/package/@yakad/sync)
 - [Yakad GitHub Repo](https://github.com/natiq-foundation/yakad)
-- [Yakad Template GitHub Repo](https://github.com/natiq-foundation/yakad-template)
-- [Yakad Docs GitHub Repo](https://github.com/natiq-foundation/yakad-docs)
 
-### 3. Qamar
-- [Docs](https://qamar.natiq.net)
-- [WordPress Plugin Page](https://wordpress.org/plugins/qamar)
-- [GitHub Repo](https://github.com/natiq-foundation/qamar)
+### 3. A Shadcn Repo
+- [GitHub Repo](https://github.com/natiq-foundation/shadcn-registry)
