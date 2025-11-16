@@ -6,11 +6,11 @@
 
 **Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
 
-## 1. Natiq
+### 1. Natiq
 - [Natiq](https://natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/natiq-frontend)
 
-## 2. Quran
+### 2. Quran
 #### Frontend
 - [Natiq quran](https://quran.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/quran-frontend)
@@ -21,17 +21,17 @@
 - [DockerHub](https://hub.docker.com/r/natiq-foundation/nq-api)
 - [GitHub Repo](https://github.com/natiq-foundation/quran-api)
 
-## 3. Account center
+### 3. Account center
 #### Frontend
 - [Natiq account](https://account.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/account-frontend)
 
-## 4. Control panel
+### 4. Control panel
 #### Frontend
 - [Control](https://control.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/natiq-control)
 
-# Side Projects
+## Side Projects
 
 ### 1. Forced alignment
 - [DockerHub](https://hub.docker.com/r/natiq-foundation/forced-alignment)
@@ -43,7 +43,7 @@
 ### 3. Tajweed
 - [GitHub Repo](https://github.com/natiq-foundation/tajweed)
 
-# UI/UX - FrontEnd
+## UI/UX - FrontEnd
 
 ### 1. Yakad
 - NPM Packages:
