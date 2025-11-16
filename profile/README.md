@@ -31,7 +31,7 @@
 - [Control](https://control.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/natiq-control)
 
-## Side Projects
+# Side Projects
 
 ### 1. Forced alignment
 - [DockerHub](https://hub.docker.com/r/natiq-foundation/forced-alignment)
@@ -43,7 +43,7 @@
 ### 3. Tajweed
 - [GitHub Repo](https://github.com/natiq-foundation/tajweed)
 
-## UI/UX - FrontEnd
+# UI/UX - FrontEnd
 
 ### 1. Yakad
 - NPM Packages:
