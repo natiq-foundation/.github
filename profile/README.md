@@ -4,7 +4,7 @@
 
 **Websites:** [Natiq intro](https://natiq.net) - [Quran app](https://quran.natiq.net)
 
-**Read More:** [Blog](https://blog.natiq.net) - [Vision](https://blog.natiq.net/vision) - [Team](https://blog.natiq.net/team) - [About](https://blog.natiq.net/about) - [Sponsor](https://blog.natiq.net/sponsor)
+**Read More:** [Blog](https://natiq.org) - [Vision](https://natiq.org/vision) - [Team](https://natiq.org/team) - [About](https://natiq.org/about) - [Sponsor](https://natiq.org/sponsor)
 
 ### 1. Natiq
 - [Natiq](https://natiq.net)
