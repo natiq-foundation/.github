@@ -2,9 +2,9 @@
 
 ![Natiq logo on header](/profile/header.png "Natiq")
 
-**Websites:** [Natiq intro](https://natiq.net) - [Quran app](https://quran.natiq.net)
+**WebApps:** [Natiq intro](https://natiq.net) - [Quran app](https://quran.natiq.net)
 
-**Read More:** [Blog](https://natiq.org) - [DevDocs](https://dev.natiq.org) - [Sponsor](https://sponsor.natiq.org)
+**Links:** [Blog](https://natiq.org) - [DevDocs](https://dev.natiq.org) - [Sponsor](https://sponsor.natiq.org)
 
 ### 1. Natiq
 - [Natiq](https://natiq.net)
