@@ -20,7 +20,7 @@
 - [Natiq quran](https://quran.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/quran-frontend)
 #### API
-- [Developer Docs](https://developer.natiq.net)
+- [DevDocs](https://dev.natiq.org)
 - SDK:
   - [NPM Package: @ntq/sdk](https://www.npmjs.com/package/@ntq/sdk)
 - [DockerHub](https://hub.docker.com/r/natiqquran/nq-api)
