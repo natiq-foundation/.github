@@ -16,10 +16,10 @@
 - [GitHub Repo](https://github.com/natiq-foundation/bot)
 
 ### 3. Quran
-#### Frontend
+***Frontend***
 - [Natiq quran](https://quran.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/quran-frontend)
-#### API
+***API***
 - [DevDocs](https://dev.natiq.org)
 - SDK:
   - [NPM Package: @ntq/sdk](https://www.npmjs.com/package/@ntq/sdk)
@@ -27,12 +27,12 @@
 - [GitHub Repo](https://github.com/natiq-foundation/quran-api)
 
 ### 4. Account center
-#### Frontend
+***Frontend***
 - [Natiq account](https://account.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/account-frontend)
 
 ### 5. Control panel
-#### Frontend
+***Frontend***
 - [Control](https://control.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/natiq-control)
 
