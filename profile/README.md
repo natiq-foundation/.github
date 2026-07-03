@@ -19,6 +19,7 @@
 ***Frontend***
 - [Natiq quran](https://quran.natiq.net)
 - [GitHub Repo](https://github.com/natiq-foundation/quran-frontend)
+
 ***API***
 - [DevDocs](https://dev.natiq.org)
 - SDK:
