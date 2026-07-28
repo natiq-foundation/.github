@@ -2,12 +2,12 @@
 
 ![Natiq logo on header](/profile/header.png "Natiq")
 
-**WebApps:** [Natiq intro](https://natiq.net) - [Quran app](https://quran.natiq.net)
+**WebApps:** [Natiq intro](https://natiq.org) - [Quran app](https://quran.natiq.org)
 
-**Links:** [Blog](https://natiq.org) - [DevDocs](https://dev.natiq.org) - [Sponsor](https://sponsor.natiq.org)
+**Links:** [Blog](https://blog.natiq.org) - [DevDocs](https://dev.natiq.org) - [Sponsor](https://sponsor.natiq.org)
 
 ### 1. Natiq
-- [Natiq](https://natiq.net)
+- [Natiq](https://natiq.org)
 - [GitHub Repo](https://github.com/natiq-foundation/natiq-frontend)
 
 ### 2. Bot
@@ -17,7 +17,7 @@
 
 ### 3. Quran
 ***Frontend***
-- [Natiq quran](https://quran.natiq.net)
+- [Natiq quran](https://quran.natiq.org)
 - [GitHub Repo](https://github.com/natiq-foundation/quran-frontend)
 
 ***API***
@@ -29,12 +29,12 @@
 
 ### 4. Account center
 ***Frontend***
-- [Natiq account](https://account.natiq.net)
+- [Natiq account](https://account.natiq.org)
 - [GitHub Repo](https://github.com/natiq-foundation/account-frontend)
 
 ### 5. Control panel
 ***Frontend***
-- [Control](https://control.natiq.net)
+- [Control](https://control.natiq.org)
 - [GitHub Repo](https://github.com/natiq-foundation/natiq-control)
 
 ## Side Projects
