@@ -1,4 +1,4 @@
-# Natiq Foundation
+# Natiq
 
 ![Natiq logo on header](/profile/header.png "Natiq")
 
